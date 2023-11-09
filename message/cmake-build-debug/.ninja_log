@@ -1,0 +1,8 @@
+# ninja log v5
+4	430	7179636634969984	CMakeFiles/message.dir/anymess.cpp.obj	c62a11fdf356056a
+1	830	7179616739532370	CMakeFiles/message.dir/main.cpp.obj	93d60bcc94af9f33
+2	350	7185636146641124	build.ninja	2c9614b76546c8a7
+431	645	7179636637027582	message.exe	9dad5efd1de2eee5
+3	1201	7179623428126222	CMakeFiles/message.dir/hello.cpp.obj	2b3a4891e1add4ca
+4	395	7179640264060508	CMakeFiles/message1.dir/anymess.cpp.obj	3cbe70a66df91adb
+395	560	7179640265651749	message1.exe	b59110cf75d9fbb
